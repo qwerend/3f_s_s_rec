@@ -1,0 +1,2 @@
+DateTime, Sensor, Temperature (Celcius), Relative Humidity (%), Pressure (hPa), Light (lx)
+2018-08-20 00:00:00 +0800, BME280|BH1750FVI, 29.61, 83.55, 1001.70, 0
